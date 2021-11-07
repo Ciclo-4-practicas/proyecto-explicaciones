@@ -1,0 +1,26 @@
+.fondoRojo{
+    background-color: rgba(63, 13, 13, 0.671);
+}
+.fondoVerde{
+    background-color: aquamarine;
+}
+.fondo-oscuro{
+    background-color: rgba(20, 20, 20, 0.171);
+}
+.fondo-claro{
+    background-color: honeydew;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    padding: 30px;
+}
+.button { 
+    background-color: darksalmon;
+    cursor: pointer;
+    padding: 3px;
+    border: 1px solid gray;
+
+    ;
+}
